@@ -1,0 +1,9 @@
+{
+  "name": "fsm-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": ["fsm"],
+  "author": "",
+  "license": "ISC"
+}
